@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Nome do Projeto
+    Portal educacional da ProGirls
   </h1>
   <!--
 <p>
@@ -193,7 +193,7 @@ Este projeto está sob a licença MIT.
 ## Contribuidores
 
 - **Tech Leader:** [Natália](https://github.com/nataliatsi)
-- **Frontend:** [Nome](https://github.com/usuario)
+- **Frontend:** [Mariana Ferreira](https://github.com/ferreiramrs)
 
 <!-- Adicione:
 - Função (Frontend, Tech Lead, etc.)
