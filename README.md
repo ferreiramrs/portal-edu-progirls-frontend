@@ -62,7 +62,7 @@ Este projeto foi desenvolvido para **agrupar cursos, materiais e eventos relevan
 
 ```bash
 docs/                          # documentação do projeto
-portal-edu-progirls-vite/      # aplicação React principal - A pasta raiz da aplicação frontend construída com React + TypeScript + Vite. Contém configurações do projeto, index.html e todas as dependências.
+portal-progirls/               # aplicação React principal - A pasta raiz da aplicação frontend construída com React + TypeScript + Vite. Contém configurações do projeto, index.html e todas as dependências.
 src/
  ├── public/                   # arquivos estáticos públicos - Imagens, ícones, fontes e outros arquivos que não são processados pelo bundler. Servidos como estão na aplicação.
  ├── assets/                   # arquivos estáticos (imagens, ícones) - Ativos da aplicação. Imagens, ícones, SVGs e outros recursos usados nos componentes. Importados diretamente no código.
